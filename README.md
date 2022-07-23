@@ -1,5 +1,4 @@
-### Hola 👋🏻 Soy Heider.
- Soy Full Stack Developer 
+### Hola 👋🏻 Soy Full Stack Developer 
  
  My Nombre Es Heider Lopez
 ==============================
