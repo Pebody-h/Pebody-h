@@ -1,9 +1,9 @@
 ### Hola 👋🏻 Soy Heider.
  Soy Full Stack Developer 
-Hola 👋 My Nombre Es Heider Lopez
+ My Nombre Es Heider Lopez
 ==============================
 
-Me gusta crear proyectos personales para practicar mis habilidades i mejorar en lo que aprendo dia a dia
+Me gusta crear proyectos personales para practicar mis habilidades y mejorar en lo que aprendo dia a dia
 ---------------------------------------
 
 *   ✉️  Puedes Contactarme en [heiderl753@gmail.com](mailto:heiderl753@gmail.com)
