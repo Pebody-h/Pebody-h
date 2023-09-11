@@ -1,6 +1,6 @@
 ### Hola 👋🏻 My Nombre Es Heider Lopez
  
-Full stack web developer
+Full stack developer
 -----------------------------
 Soy desarrollador web full stack que busca crecer cada dia. Esa es la razón por la que siempre estoy tratando de aprender nuevas tecnologías. Soy un entusiasta del Backend y del Frontend, asi que no tengo problemas en realisar tareas en cualquier area. Me considero una persona dinámica, comprometida y creativa, a demas, soy apasionado por la tecnología, el desarrollo, y su impacto en el mundo actual.
 
