@@ -28,4 +28,3 @@ soy desarrollador web full stack que busca crecer cada dia. Esa es la razón por
 ### Socials
 <p align="left"> 
 <a href="https://www.linkedin.com/in/heider-lopez-b71a09217/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://github.com/Pebody-h" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
