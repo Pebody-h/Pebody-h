@@ -5,7 +5,7 @@ Full stack web developer
 soy desarrollador web full stack que busca crecer cada dia. Esa es la razón por la que siempre estoy tratando de aprender nuevas tecnologías. Soy un entusiasta del Backend y del Frontend, asi que no tengo problemas en realisar tareas en cualquier area. Me gusta crear proyectos personales para practicar mis habilidades y mejorar en lo que aprendo dia a dia
 
 *   🌍  Soy de Bogota, Colombia
-*   🌱  Actualmente estoy aprendiendo Python
+*   🌱  Actualmente estoy aprendiendo C#
 *   🖥️  Mira mi portafolio [Heider.dev](https://portafolio-pebody.vercel.app/)
 *   ✉️  Puedes Contactarme en [heiderl753@gmail.com](mailto:heiderl753@gmail.com)
 
