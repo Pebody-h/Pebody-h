@@ -14,7 +14,7 @@ soy desarrollador web full stack que busca crecer cada dia. Esa es la razón por
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src ="http://3con14.biz/code/_data/js/intro/js-logo.png" width="50" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.jpg" width="50" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png" width="50" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="[https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png](https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png)" width="50" /></a>
+<a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" width="50" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="50" /></a>
 <a href="https://sequelize.org" target="_blank" rel="noreferrer"><img src="https://github.com/sequelize/sequelize/blob/main/logo.svg" width="50" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_postgresql.png" width="50" /></a>
