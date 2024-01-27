@@ -2,7 +2,7 @@
  
 Desarrollador Full Stack 
 -----------------------------
-Soy un desarrollador fullstack con experiencia en desarrollo web y móvil. Mi pasión por la innovación y habilidades de resolución de problemas me permiten ofrecer soluciones tecnológicas de calidad. Estoy comprometido con el aprendizaje continuo y la adaptabilidad, cualidades esenciales para enfrentar los desafíos dinámicos del desarrollo de software.
+Desarrollador fullstack apasionado por la creación de soluciones integrales. Con experiencia en el desarrollo web y móvil, con habilidades sólidas en tecnologías front-end y back-end. Comprometido con la excelencia técnica y la innovación, busco contribuir a proyectos desafiantes y colaborar con equipos apasionados por la tecnología
 
 *   🌍  Soy de Bogota, Colombia
 *   ✉️  Puedes contactarme a través de un email. [heiderl753@gmail.com](mailto:heiderl753@gmail.com)
