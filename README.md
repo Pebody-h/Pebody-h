@@ -21,7 +21,7 @@ Soy un desarrollador fullstack con experiencia en desarrollo web y móvil. Mi pa
 
 
 ### Skills Backend
-<p align="right">
+<p align="lefts">
  <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" width="50" /></a>
  <a href="https://docs.gofiber.io/" target="_blank" rel="noreferrer"><img src="https://docs.gofiber.io/img/logo-dark.svg" width="50" /></a>
  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="50" /></a>
