@@ -1,13 +1,12 @@
-### Hola 👋🏻 My Nombre Es Heider Lopez
+### Hola 👋🏻 Mi Nombre Es Heider Lopez
  
-Full stack developer
+Desarrollador Full Stack 
 -----------------------------
 Soy un desarrollador fullstack con experiencia en desarrollo web y móvil. Mi pasión por la innovación y habilidades de resolución de problemas me permiten ofrecer soluciones tecnológicas de calidad. Estoy comprometido con el aprendizaje continuo y la adaptabilidad, cualidades esenciales para enfrentar los desafíos dinámicos del desarrollo de software.
 
 *   🌍  Soy de Bogota, Colombia
-*   🌱  Actualmente estoy mejorando con GO-Golang
-*   ✉️  Puedes Contactarme en [heiderl753@gmail.com](mailto:heiderl753@gmail.com)
-*   📱   +57 3153029749
+*   ✉️  Puedes contactarme a través de un email. [heiderl753@gmail.com](mailto:heiderl753@gmail.com)
+*   🌱  En la actualidad, estoy profundizando mis conocimientos en el desarrollo backend mediante el estudio y aplicación del lenguaje GO - Golang.
 
 ### Skills Frontend
 <p align="left">
